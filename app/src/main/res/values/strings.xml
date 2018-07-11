@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebServices</string>
+    <string name="go">Go</string>
+    <string name="enter_your_user_name">Enter your user name</string>
+    <string name="test">Test</string>
+    <string name="image">image</string>
+</resources>
